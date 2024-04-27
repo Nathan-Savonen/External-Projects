@@ -10,6 +10,11 @@ Reference to other projects that I have collaborated on
 > as seeing what time the restaurant opens as well as when it closes.
 
 
+[TrendFinder](https://github.com/Joseph-M-Newman/CST205Project1.git) -- Multimedia Programming
+
+>Finding top trends among different social media platforms and organizing and displaying the information
+
+
 
 ### Hackathon Projects
 
